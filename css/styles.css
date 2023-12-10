@@ -10,7 +10,7 @@
         'header'
         'main'
         'footer';
-    height: 100vh;
+    min-height: 100vh;
     
 }
 
@@ -63,7 +63,7 @@
     /* justify-content:space-between; */
     /* width:auto; */
     max-width:1000px;
-    
+    min-height: 100vh;
     margin-left: 20%;
     margin-right: 20%;
     flex:1;
